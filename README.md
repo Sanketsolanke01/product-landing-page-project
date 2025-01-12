@@ -1,4 +1,4 @@
-Build a Product Landing Page
+Build a Product Landing Page using html and css
 User Stories:
 
 Your product landing page should have a header element with a corresponding id="header"
